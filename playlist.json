@@ -1,1 +1,546 @@
-
+[
+  {
+    "tvg-id": "0-9-aajtak",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "display-name": "Aaj Tak",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeenews",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
+    "display-name": "Zee News",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-indiatoday",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
+    "display-name": "India Today",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-255",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png",
+    "display-name": "Good News Today",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5543514",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",
+    "display-name": "&Prive HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeepunjabharyanahima",
+    "group-title": "Punjabi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",
+    "display-name": "Zee Punjab Haryana Himachal Pradesh",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeebusiness",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "display-name": "Zee Business",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zee24kalak",
+    "group-title": "Gujarati",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",
+    "display-name": "Zee 24 Kalak",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zee24taas",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+    "display-name": "Zee 24 Taas",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-wion",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",
+    "display-name": "WION",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeehindustan",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",
+    "display-name": "Zee Bharat",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeebiharjharkhand",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",
+    "display-name": "Zee Bihar Jharkhand",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-24ghantatv",
+    "group-title": "Bengali",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
+    "display-name": "Zee 24 Ghanta",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeekalinganews",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png",
+    "display-name": "Zee Delhi NCR Haryana",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeerajasthannews",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",
+    "display-name": "Zee Rajasthan News",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeemadhyapradeshchat",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",
+    "display-name": "Zee Madhya Pradesh Chhattisgarh",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-bigmagic_1786965389",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",
+    "display-name": "Big Magic",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zing",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
+    "display-name": "Zing",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeetvhd",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "display-name": "Zee TV HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-tvhd_0",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",
+    "display-name": "&TV HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeemarathi",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
+    "display-name": "Zee Marathi HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeeyuva",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",
+    "display-name": "Zee Yuva",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeecafehd",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",
+    "display-name": "Zee Café HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-bigganga",
+    "group-title": "Movies",
+    "tvg-logo": "https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",
+    "display-name": "Zee Anmol Cinema 2",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeetamil",
+    "group-title": "Tamil",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
+    "display-name": "Zee Tamil HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeetelugu",
+    "group-title": "Telugu",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",
+    "display-name": "Zee Telugu HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeekannada",
+    "group-title": "Kannada",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",
+    "display-name": "Zee Kannada HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-129",
+    "group-title": "Malayalam",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
+    "display-name": "Zee Keralam HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeebangla",
+    "group-title": "Bengali",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+    "display-name": "Zee Bangla HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeeanmol",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+    "display-name": "Zee Anmol",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeecinemahd",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+    "display-name": "Zee Cinema HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeecinemalu",
+    "group-title": "Telugu",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",
+    "display-name": "Zee Cinemalu HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-tvpictureshd",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+    "display-name": "&Pictures HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeetalkies",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",
+    "display-name": "Zee Talkies HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeebanglacinema",
+    "group-title": "Bengali",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+    "display-name": "Zee Bangla Cinema",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-215",
+    "group-title": "Punjabi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",
+    "display-name": "Zee Punjabi",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeeanmolcinema",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
+    "display-name": "Zee Anmol Cinema",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeeclassic",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",
+    "display-name": "Zee Bollywood",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-pictures",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",
+    "display-name": "&Pictures",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeecinema",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
+    "display-name": "Zee Cinema",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeeaction",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
+    "display-name": "Zee Action",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-channel_2105335046",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "display-name": "&flix HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-channel_1144658965",
+    "group-title": "Spiritual",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",
+    "display-name": "Sanskar TV",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105500/SanskarTVMSLELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeetv",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",
+    "display-name": "Zee TV",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-zeesalaam",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
+    "display-name": "Zee Salaam",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-sarthaktv",
+    "group-title": "Odia",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",
+    "display-name": "Zee Sarthak",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-channel_265145625",
+    "group-title": "News",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",
+    "display-name": "Zee News Uttar Pradesh Uttrakhand",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-176",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
+    "display-name": "Zee Classic",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-209",
+    "group-title": "Movies",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
+    "display-name": "&xplorHD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-216",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",
+    "display-name": "Zee Biskope",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-224",
+    "group-title": "Tamil",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",
+    "display-name": "Zee Thirai",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-348",
+    "group-title": "Entertainment",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",
+    "display-name": "Zee Zest HD",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-241",
+    "group-title": "Kannada",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",
+    "display-name": "Zee Picchar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-394",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",
+    "display-name": "Zee Chitramandir",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383466",
+    "group-title": "Kannada",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",
+    "display-name": "Zee Kannada",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383484",
+    "group-title": "Bengali",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",
+    "display-name": "Zee Bangla",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383485",
+    "group-title": "Telugu",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",
+    "display-name": "Zee Telugu",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383486",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",
+    "display-name": "Zee Marathi",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383487",
+    "group-title": "Tamil",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
+    "display-name": "Zee Tamil",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383488",
+    "group-title": "Telugu",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",
+    "display-name": "Zee Cinemalu",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398768",
+    "group-title": "Telugu",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
+    "display-name": "Aastha Telugu",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398770",
+    "group-title": "Tamil",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+    "display-name": "Aastha Tamil",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398771",
+    "group-title": "Kannada",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",
+    "display-name": "Aastha Kannada",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398791",
+    "group-title": "Gujarati",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+    "display-name": "Aastha Gujarati",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398792",
+    "group-title": "Spiritual",
+    "tvg-logo": "https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png",
+    "display-name": "Dharm Sandesh",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398793",
+    "group-title": "Spiritual",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
+    "display-name": "Aastha Bhajan",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5383489",
+    "group-title": "Marathi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",
+    "display-name": "Zee Talkies",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  },
+  {
+    "tvg-id": "0-9-9z5398761",
+    "group-title": "Spiritual",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",
+    "display-name": "Aastha",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1754015124~acl=%2f*~data=hdntl~hmac=6d734284f01f85072672e31842e11d2c49cf959e4e80a40a5732c074adb8d32f"
+  }
+]
