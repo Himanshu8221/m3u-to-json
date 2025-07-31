@@ -4,7 +4,7 @@ import re
 
 # 🔁 List of M3U URLs to parse and merge
 m3u_urls = [
-    "https://example.com/playlist.m3u" # Add more links as needed
+    "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/z5.m3u" # Add more links as needed
 ]
 
 def parse_extinf_line(line):
