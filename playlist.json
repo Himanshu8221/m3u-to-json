@@ -1,1 +1,170 @@
-
+[
+  {
+    "tvg-id": "ts8",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/starplushd.png",
+    "group-title": "Entertainment",
+    "display-name": "STAR Plus HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/starplushd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts40",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/andtvhd.png",
+    "group-title": "Entertainment",
+    "display-name": "&tv HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/andtvhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts63",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png",
+    "group-title": "Entertainment",
+    "display-name": "Zee TV HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/zeetvhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts187",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png",
+    "group-title": "Entertainment",
+    "display-name": "Colors Infinity HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/colorsinfinityhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts503",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/zeecinemahd.png",
+    "group-title": "Movies",
+    "display-name": "Zee Cinema HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/zeecinemahd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts666",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png",
+    "group-title": "Movies",
+    "display-name": "Tata Play Theatre HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/tataplaytheatrehd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts267",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/andpictureshd.png",
+    "group-title": "Movies",
+    "display-name": "&pictures HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/andpictureshd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts1183",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/andxplorhd.png",
+    "group-title": "Movies",
+    "display-name": "&Xplor HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/andxplorhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts32",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/sonypixhd.png",
+    "group-title": "Movies",
+    "display-name": "SONY PIX HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/sonypixhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts562",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/moviesnowhd.png",
+    "group-title": "Movies",
+    "display-name": "Movies Now HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/moviesnowhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts210",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/mnhd.png",
+    "group-title": "Movies",
+    "display-name": "MN+ HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/mnhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts599",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/mnxhd.png",
+    "group-title": "Movies",
+    "display-name": "MNX HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/mnxhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts1489",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/tataplayfancodesports.png",
+    "group-title": "Sports",
+    "display-name": "Tata Play Fancode Sports",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/tataplayfancodesports/master.m3u8"
+  },
+  {
+    "tvg-id": "ts1033",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png",
+    "group-title": "Sports",
+    "display-name": "Star Sports 2 Hindi HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/starsports2hindihd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts812",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png",
+    "group-title": "Sports",
+    "display-name": "Eurosport HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/eurosporthd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts433",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/nickhd.png",
+    "group-title": "Kids",
+    "display-name": "Nick HD+",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/nickhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts681",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/cartoonnetworkhd.png",
+    "group-title": "Kids",
+    "display-name": "Cartoon Network HD+",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/cartoonnetworkhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts605",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/nationalgeographichd.png",
+    "group-title": "Knowledge",
+    "display-name": "National Geographic HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/nationalgeographichd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts413",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png",
+    "group-title": "Knowledge",
+    "display-name": "Nat Geo Wild HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/natgeowildhd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts341",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png",
+    "group-title": "Knowledge",
+    "display-name": "Discovery HD World",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/discoveryhdworld/master.m3u8"
+  },
+  {
+    "tvg-id": "ts287",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png",
+    "group-title": "Knowledge",
+    "display-name": "Animal Planet HD World",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/animalplanethdworld/master.m3u8"
+  },
+  {
+    "tvg-id": "ts480",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/tlchd.png",
+    "group-title": "Lifestyle",
+    "display-name": "TLC HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/tlchd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts484",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/travelxphd.png",
+    "group-title": "Lifestyle",
+    "display-name": "Travelxp HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8"
+  },
+  {
+    "tvg-id": "ts406",
+    "tvg-logo": "https://live.dinesh29.com.np/logos/tataplay/mtvhd.png",
+    "group-title": "Music",
+    "display-name": "MTV HD",
+    "url": "https://live.dinesh29.com.np/stream/tataplay/mtvhd/master.m3u8"
+  }
+]
