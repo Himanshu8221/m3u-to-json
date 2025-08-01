@@ -5,6 +5,7 @@ import re
 # 🔁 List of M3U URLs to parse and merge
 m3u_urls = [
     #"https://example.com/playlist.m3u",  #Add more links as needed
+    "http://filex.me:8080/get.php?username=1234567&password=7654321&type=m3u_plus&output=ts"
 ]
 
 def parse_extinf_line(line):
