@@ -3,7 +3,7 @@ import json
 import re
 
 # 🔁 List of M3U URLs to parse and merge
-m3u_urls = [
+m3u_urls = [ "https://allinonereborn.fun/playlist/airtel.m3u"
     #"https://example.com/playlist.m3u",  #Add more links as needed
 ]
 
@@ -78,3 +78,4 @@ if __name__ == "__main__":
         print(f"🎉 All merged: {len(all_channels)} total channels saved to {output_file}")
     except Exception as e:
         print(f"❌ Failed to write file: {e}")
+
